@@ -1,1 +1,2 @@
 print ("jam")
+print ("aish")
